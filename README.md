@@ -1,7 +1,5 @@
 # 🖥 Keyboard Input Monitoring System
-**Bahria University — Operating Systems Project (Spring 2026)**  
-**Student:** Hussain Ahmed | **Enrollment:** 09-131242-030  
-**Submitted to:** Aamir Sohail
+**Student:** Waleed Ahmed | **Enrollment:** 01-131232-093
 
 ---
 
